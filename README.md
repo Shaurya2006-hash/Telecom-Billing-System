@@ -37,3 +37,22 @@ It helps manage customer records, calculate bills, and display billing informati
 ```bash
 git clone https://github.com/Shaurya2006-hash/Telecom-Billing-System.git
 
+Navigate to the project folder
+
+cd Telecom-Billing-System
+
+Compile the source code
+
+(Make sure you have GCC or another C compiler installed)
+gcc telecom_billing_system.c -o telecom_billing_system
+
+
+Run the program
+
+./telecom_billing_system
+
+Follow on-screen menu options to:
+Add or search customer details
+Generate or view bills
+Modify or delete records
+
