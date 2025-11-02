@@ -36,19 +36,13 @@ It helps manage customer records, calculate bills, and display billing informati
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Shaurya2006-hash/Telecom-Billing-System.git
----
-###2. Navigate to the project directory:
-
+2. Navigate to the project directory
 cd Telecom-Billing-System
 
-
-Compile the source code using GCC:
-
+3. Compile the source code using GCC
 gcc telecom_billing_system.c -o telecom_billing_system
 
-
-Run the program:
-
+4. Run the program
 ./telecom_billing_system
 
 🕹️ Usage
@@ -68,7 +62,6 @@ Enter your choice:
 
 
 Follow the on-screen prompts to perform any action.
-
 The system will automatically save your updates in the file.
 
 📁 File Structure
@@ -94,5 +87,3 @@ Enter phone number: 9876543210
 Enter bill amount: 550.75
 
 Record added successfully!
-
-
