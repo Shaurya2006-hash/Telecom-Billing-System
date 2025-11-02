@@ -46,7 +46,9 @@ gcc telecom_billing_system.c -o telecom_billing_system
 ```bash 
 ./telecom_billing_system
 
-🕹️ Usage
+---
+
+ ##🕹️ Usage
 Run the program in your terminal.
 You will see a menu like this:
 TELECOM BILLING SYSTEM
