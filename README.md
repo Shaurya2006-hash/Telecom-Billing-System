@@ -35,4 +35,4 @@ Follow these steps to install, compile, and run the project:
 3.**Compile the source code using GCC**
   ```bash
      gcc telecom_billing_system.c -o telecom_billing_system
-4.**Run the Program**
+
