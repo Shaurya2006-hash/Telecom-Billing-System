@@ -36,23 +36,63 @@ It helps manage customer records, calculate bills, and display billing informati
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Shaurya2006-hash/Telecom-Billing-System.git
-
-Navigate to the project folder
+---
+###2. Navigate to the project directory:
 
 cd Telecom-Billing-System
 
-Compile the source code
 
-(Make sure you have GCC or another C compiler installed)
+Compile the source code using GCC:
+
 gcc telecom_billing_system.c -o telecom_billing_system
 
 
-Run the program
+Run the program:
 
 ./telecom_billing_system
 
-Follow on-screen menu options to:
-Add or search customer details
-Generate or view bills
-Modify or delete records
+🕹️ Usage
+
+Run the program in your terminal.
+
+You will see a menu like this:
+
+TELECOM BILLING SYSTEM
+1. Add new record
+2. Search record
+3. Modify record
+4. Delete record
+5. Display all records
+6. Exit
+Enter your choice:
+
+
+Follow the on-screen prompts to perform any action.
+
+The system will automatically save your updates in the file.
+
+📁 File Structure
+Telecom-Billing-System/
+├── telecom_billing_system.c   # Main C source file
+├── customer_records.txt       # Data file storing customer records (auto-created)
+└── README.md                  # Project documentation
+
+📤 Example Output
+TELECOM BILLING SYSTEM
+
+1. Add new record
+2. Search record
+3. Modify record
+4. Delete record
+5. Display all records
+6. Exit
+
+Enter your choice: 1
+
+Enter customer name: John Doe
+Enter phone number: 9876543210
+Enter bill amount: 550.75
+
+Record added successfully!
+
 
