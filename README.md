@@ -29,9 +29,7 @@ Follow these steps to install, compile, and run the project:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Shaurya2006-hash/Telecom-Billing-System.git
-'''
-2. **Navigate to project dictionary 
+2. **Navigate to project dictionary**
    ```bash
     cd Telecom-Billing-System
-'''
 
