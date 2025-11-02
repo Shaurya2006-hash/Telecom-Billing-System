@@ -33,24 +33,22 @@ It helps manage customer records, calculate bills, and display billing informati
 
 ## 💻 Installation and Usage
 
-### 1. Clone the repository
+ 1. Clone the repository
 ```bash
 git clone https://github.com/Shaurya2006-hash/Telecom-Billing-System.git
 2. Navigate to the project directory
+```bash
 cd Telecom-Billing-System
-
 3. Compile the source code using GCC
+```bash
 gcc telecom_billing_system.c -o telecom_billing_system
-
 4. Run the program
+```bash 
 ./telecom_billing_system
 
 🕹️ Usage
-
 Run the program in your terminal.
-
 You will see a menu like this:
-
 TELECOM BILLING SYSTEM
 1. Add new record
 2. Search record
@@ -59,11 +57,6 @@ TELECOM BILLING SYSTEM
 5. Display all records
 6. Exit
 Enter your choice:
-
-
-Follow the on-screen prompts to perform any action.
-The system will automatically save your updates in the file.
-
 📁 File Structure
 Telecom-Billing-System/
 ├── telecom_billing_system.c   # Main C source file
@@ -71,8 +64,8 @@ Telecom-Billing-System/
 └── README.md                  # Project documentation
 
 📤 Example Output
+```bash 
 TELECOM BILLING SYSTEM
-
 1. Add new record
 2. Search record
 3. Modify record
