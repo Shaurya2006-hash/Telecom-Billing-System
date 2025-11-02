@@ -38,5 +38,12 @@ Follow these steps to install, compile, and run the project:
 4.**Run the Program**
    ```bash
    ./telecom_billing_system
+**How to Use**
+1 → Add a new customer record
+2 → Search for a record by phone number
+3 → Modify an existing record
+4 → Delete a record
+5 → Display all stored records
+6 → Exit the program
 
 
